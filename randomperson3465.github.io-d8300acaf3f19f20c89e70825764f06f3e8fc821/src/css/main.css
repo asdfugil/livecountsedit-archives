@@ -1,0 +1,18 @@
+body {
+    background-color: #43454f;
+    color: #fff;
+    font-family: Lato
+}
+h1 {
+    text-align: center;
+    font-size: 60
+}
+h2 {
+    font-size: 36
+}
+li {
+    font-size: 30
+}
+a {
+    color: #4babdb
+}
